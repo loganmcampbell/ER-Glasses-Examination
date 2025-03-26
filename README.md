@@ -1,5 +1,5 @@
 
-# Even Demo
+# Even Demo (Review)
 
 ## Even AI
 The general process of the Even AI function is as follows: After the app and glasses are 
